@@ -1,0 +1,26 @@
+uuid: 7650c269-5a29-4635-9bdc-d25b32776309
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:paragraph_container:863d00e3-f15b-488f-a25e-fa6fe67652c5'
+  module:
+    - block_content
+  theme:
+    - openy_rose
+id: rose_memberships_mobile_menu
+theme: openy_rose
+region: content
+weight: -6
+provider: null
+plugin: 'block_content:863d00e3-f15b-488f-a25e-fa6fe67652c5'
+settings:
+  id: 'block_content:863d00e3-f15b-488f-a25e-fa6fe67652c5'
+  label: Memberships
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }
+
