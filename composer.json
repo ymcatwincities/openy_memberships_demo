@@ -24,7 +24,7 @@
         }
     },
     "require": {
-        "drupal/default_content": "^1.0@alpha",
-        "openy/openy_memberships": "^1.0.0"
+        "drupal/default_content": "^2",
+        "openy/openy_memberships": "^2"
     }
 }
