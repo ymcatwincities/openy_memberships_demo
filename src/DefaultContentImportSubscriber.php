@@ -80,6 +80,11 @@ class DefaultContentImportSubscriber implements EventSubscriberInterface {
           'ar_quantity' => 1,
           'ar_target_id' => 3
         ],
+        2 => [
+          'target_id' => 131,
+          'quantity' => 1,
+          'ar_quantity' => 1
+        ],
       ],
       'Family I' => [
         0 => [
@@ -101,6 +106,20 @@ class DefaultContentImportSubscriber implements EventSubscriberInterface {
           'quantity' => 2,
           'ar_quantity' => 2,
           'ar_target_id' => 2
+        ]
+      ],
+      'Senior' => [
+        0 => [
+          'target_id' => 130,
+          'quantity' => 1,
+          'ar_quantity' => 1
+        ]
+      ],
+      'Student' => [
+        0 => [
+          'target_id' => 131,
+          'quantity' => 2,
+          'ar_quantity' => 2
         ]
       ]
     ];
