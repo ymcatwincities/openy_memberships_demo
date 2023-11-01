@@ -1,7 +1,7 @@
 {
     "name": "openy/openy_memberships_demo",
     "type": "drupal-module",
-    "description": "Implement Membership Framework DEMO content for OpenY and Drupal community",
+    "description": "Implement Membership Framework DEMO content for YMCA Website Services and Drupal community",
     "keywords": [
     ],
     "homepage": "https://github.com/ymcatwincities/openy_memberships_demo",
@@ -24,7 +24,7 @@
         }
     },
     "require": {
-        "drupal/default_content": "^1.0@alpha",
-        "openy/openy_memberships": "^1 || ^2"
+        "drupal/default_content": "^2.0@alpha || ^2.0 || ^1.0@alpha",
+        "openy/openy_memberships": "*"
     }
 }
