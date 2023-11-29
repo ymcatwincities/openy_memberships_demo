@@ -19,7 +19,8 @@
     "extra": {
         "patches": {
             "drupal/default_content" : {
-                "2698425 - Do not reimport existing entities": "https://www.drupal.org/files/issues/2020-02-05/2698425--accept-content-updates--122.patch"
+                "2698425 - Do not reimport existing entities": "https://www.drupal.org/files/issues/2020-02-05/2698425--accept-content-updates--122.patch",
+                "Error about incompatible declaration of importContent https://www.drupal.org/project/default_content/issues/3205309#comment-14213120": "https://www.drupal.org/files/issues/2021-09-09/3205309-importContent-error.patch"
             }
         }
     },
