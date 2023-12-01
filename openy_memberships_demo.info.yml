@@ -1,9 +1,10 @@
 name: 'Open Y Memberships Demo'
 description: Provides demo content for Open Y Memberships.
 type: module
-core_version_requirement: ^9 || ^10
+core_version_requirement: ^9.5 || ^10
 package: YMCA Website Services
 dependencies:
   - openy_memberships
   - drupal:default_content
+  - drupal:hal
 core_incompatible: false
