@@ -25,7 +25,7 @@
         }
     },
     "require": {
-        "drupal/default_content": "2.0.0-alpha1",
+        "drupal/default_content": "2.0.0-alpha2",
         "openy/openy_memberships": "*"
     }
 }
